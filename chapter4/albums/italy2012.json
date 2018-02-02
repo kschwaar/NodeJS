@@ -1,0 +1,30 @@
+{
+  "error": null,
+  "data": {
+    "album_data": {
+      "short_name": "/italy2012",
+      "photos": [
+        {
+          "filename": "picture_01.jpg",
+          "desc": "picture_01.jpg"
+        },
+        {
+          "filename": "picture_02.jpg",
+          "desc": "picture_02.jpg"
+        },
+        {
+          "filename": "picture_03.jpg",
+          "desc": "picture_03.jpg"
+        },
+        {
+          "filename": "picture_04.jpg",
+          "desc": "picture_04.jpg"
+        },
+        {
+          "filename": "picture_05.jpg",
+          "desc": "picture_05.jpg"
+        }
+      ]
+    }
+  }
+}
